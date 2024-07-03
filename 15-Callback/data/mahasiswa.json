@@ -1,0 +1,71 @@
+[{
+  "nama" : "Rafael Pandu Sumanti",
+  "nrp" : "0213213123",
+  "email" : "rafaelcodeid@gmail.com",
+  "jurusan": "Teknik Informatika",
+  "idDosenWali" : 1
+},
+{
+  "nama" : "Nadhira Rafani Ghifari",
+  "nrp" : "3203032103",
+  "email" : "nadhira289@gmail.com",
+  "jurusan": "Teknik Informatika",
+  "idDosenWali" : 2
+},
+{
+  "nama" : "Arya Pratama",
+  "nrp" : "3203042104",
+  "email" : "aryapratama@gmail.com",
+  "jurusan": "Teknik Informatika",
+  "idDosenWali" : 3
+},
+{
+  "nama" : "Dina Lestari",
+  "nrp" : "3203052105",
+  "email" : "dinalestari@gmail.com",
+  "jurusan": "Teknik Informatika",
+  "idDosenWali" : 1
+},
+{
+  "nama" : "Budi Santoso",
+  "nrp" : "3203062106",
+  "email" : "budisantoso@gmail.com",
+  "jurusan": "Teknik Informatika",
+  "idDosenWali" : 2
+},
+{
+  "nama" : "Siti Aisyah",
+  "nrp" : "3203072107",
+  "email" : "sitiaisyah@gmail.com",
+  "jurusan": "Teknik Informatika",
+  "idDosenWali" : 3
+},
+{
+  "nama" : "Rizki Maulana",
+  "nrp" : "3203082108",
+  "email" : "rizkimaulana@gmail.com",
+  "jurusan": "Teknik Informatika",
+  "idDosenWali" : 1
+},
+{
+  "nama" : "Lina Marlina",
+  "nrp" : "3203092109",
+  "email" : "linamarlina@gmail.com",
+  "jurusan": "Teknik Informatika",
+  "idDosenWali" : 2
+},
+{
+  "nama" : "Eko Prasetyo",
+  "nrp" : "3203102110",
+  "email" : "ekoprasetyo@gmail.com",
+  "jurusan": "Teknik Informatika",
+  "idDosenWali" : 3
+},
+{
+  "nama" : "Fitri Rahmawati",
+  "nrp" : "3203112111",
+  "email" : "fitrirahmawati@gmail.com",
+  "jurusan": "Teknik Informatika",
+  "idDosenWali" : 1
+}
+]
